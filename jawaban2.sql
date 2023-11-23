@@ -22,5 +22,5 @@ VALUES
 INSERT INTO matakuliah (id, kode_matkul, nama_matkul)
 VALUES (1, 'CSF310', 'Basis Data'),
        (2, 'CSF311', 'AI'),
-			 (3, 'CRR503', 'Kalkulus'),
-			 (4, 'CSF301', 'Sistem Operasi');
+       (3, 'CRR503', 'Kalkulus'),
+       (4, 'CSF301', 'Sistem Operasi');
